@@ -1,12 +1,13 @@
 {
   "name": "emitter-state-machine",
   "version": "1.0.0",
-  "description": "",
+  "description": "JavaScript state machine that just works",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "BruNeX",
+  "homepage": "https://github.com/NeCkEr/emitter-state-machine/blob/master/README.md",
   "license": "ISC",
   "dependencies": {
     "happens": "^0.6.0"
